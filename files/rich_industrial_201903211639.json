@@ -1,0 +1,157 @@
+﻿{
+"rich_industrial": [
+	{
+		"Commodities" : "Alloys",
+		"Rich Industrial" : null,
+		"Average Industrial" : 1.0,
+		"Poor Industrial" : 1.8,
+		"Main Industrial" : 2.9,
+		"Main Agriculture" : 4.2,
+		"Rich Agriculture" : 5.3,
+		"Average Agriculture" : 6.4,
+		"Poor Agriculture" : 7.2
+	},
+	{
+		"Commodities" : "Computers",
+		"Rich Industrial" : null,
+		"Average Industrial" : 9.1,
+		"Poor Industrial" : 18.1,
+		"Main Industrial" : 27.2,
+		"Main Agriculture" : 36.2,
+		"Rich Agriculture" : 45.0,
+		"Average Agriculture" : 54.2,
+		"Poor Agriculture" : 63.1
+	},
+	{
+		"Commodities" : "Firearms",
+		"Rich Industrial" : null,
+		"Average Industrial" : 10.1,
+		"Poor Industrial" : 20.1,
+		"Main Industrial" : 30.5,
+		"Main Agriculture" : 40.7,
+		"Rich Agriculture" : 50.9,
+		"Average Agriculture" : 60.9,
+		"Poor Agriculture" : 71.1
+	},
+	{
+		"Commodities" : "Food",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Furs",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Gem-Stones",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Gold",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Liquor\/Wines",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Luxuries",
+		"Rich Industrial" : null,
+		"Average Industrial" : 3.9,
+		"Poor Industrial" : 7.9,
+		"Main Industrial" : 12.4,
+		"Main Agriculture" : 16.2,
+		"Rich Agriculture" : 20.2,
+		"Average Agriculture" : 24.1,
+		"Poor Agriculture" : 28.2
+	},
+	{
+		"Commodities" : "Machineary",
+		"Rich Industrial" : null,
+		"Average Industrial" : 4.9,
+		"Poor Industrial" : 9.9,
+		"Main Industrial" : 14.7,
+		"Main Agriculture" : 19.7,
+		"Rich Agriculture" : 24.8,
+		"Average Agriculture" : 29.8,
+		"Poor Agriculture" : 34.8
+	},
+	{
+		"Commodities" : "Minerals",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Platinum",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Radioactives",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	},
+	{
+		"Commodities" : "Textiles",
+		"Rich Industrial" : null,
+		"Average Industrial" : null,
+		"Poor Industrial" : null,
+		"Main Industrial" : null,
+		"Main Agriculture" : null,
+		"Rich Agriculture" : null,
+		"Average Agriculture" : null,
+		"Poor Agriculture" : null
+	}
+]}
